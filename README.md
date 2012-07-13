@@ -1,8 +1,11 @@
 Toggl Mac Dashboard Widget
 ==================
 
-Forked from Toggl widget v4:
-http://home.kirs.name/toggl-widget
+Simple time tracking widget for Mac Dashboard (much easy to use than Desktop version).
+Based on https://www.toggl.com/nano.
+
+Forked from Toggl Widget v4:
+http://home.kirs.name/toggl-widget.
 
 Changes
 -------
