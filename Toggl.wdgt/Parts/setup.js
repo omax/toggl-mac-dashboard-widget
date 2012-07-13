@@ -7,5 +7,5 @@
 var dashcodePartSpecs = {
     "done": { "creationFunction": "CreateGlassButton", "onclick": "showFront", "text": "Done" },
     "info": { "backgroundStyle": "black", "creationFunction": "CreateInfoButton", "foregroundStyle": "black", "frontID": "front", "onclick": "showBack" },
-    "text": { "creationFunction": "CreateText", "text": "Author: Alex Kirs\nalex.kirs@gmail.com" }
+    "text": { "creationFunction": "CreateText", "text": "Oleksandr Maksymchuk\nomax@ukr.net" }
 };
