@@ -11,3 +11,5 @@ Changes
 -------
 
 * Removed Google Analytics spying code to stay anonymous and load faster.
+* Switched to mobile.toggl.com as toggl.com/nano is discontinued.
+
